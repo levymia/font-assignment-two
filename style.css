@@ -1,21 +1,23 @@
 /* 
-font-family: 'Arimo', sans-serif;
-font-family: 'Homemade Apple', cursive;
-font-family: 'Rokkitt', serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Qwitcher Grypen', cursive;
+font-family: 'Red Hat Mono', monospace;
  */
 
+ @import url('https://fonts.googleapis.com/css2?family=Arimo:ital@1&family=Homemade+Apple&family=Rokkitt:wght@100&display=swap');
+
  body {
-    font-family: 'Arimo', sans-serif;
+    font-family: 'Red Hat Mono', monospace;
     font-size: 18px;
  }
 
 h1 {
-    font-family: 'Arimo', sans-serif;
+    font-family: 'Red Hat Mono', monospace;
     display: inline;
 }
 
  h3 {
-    font-family: 'Rokkitt', serif;
+    font-family: 'Playfair Display', serif;
  }
 
 p {
@@ -23,7 +25,7 @@ p {
 }
 
  .highlight {
-    font-family: 'Homemade Apple', cursive;
+    font-family: 'Qwitcher Grypen', cursive;
     font-size: 32px;
     color: blue;
  }
